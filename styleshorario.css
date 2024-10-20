@@ -1,6 +1,10 @@
+body {
+    font-family: Verdana;
+}
 table {
     border-collapse: collapse;
     margin: auto;
+    text-align: center;
 }
 h1 {
     text-align: center;
@@ -16,9 +20,14 @@ th {
     width: 100px;
     background-color: lightcoral;
     text-align: center;
+    font-size: 25px;
+    padding: 30px;
 }
 td {
     border: 1px solid black;
+    text-align: center;
+    font-size: 25px;
+    padding: 30px;
 }
 
 /* CLASES */
@@ -46,4 +55,13 @@ td {
 }
 .ipoi {
     background-color: burlywood;
+}
+.descans {
+    font-size: 20px;
+    padding: 15px;
+}
+.horas {
+    font-size: 20px;
+    padding: 10px;
+    width: 180px;
 }
