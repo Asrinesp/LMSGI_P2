@@ -1,0 +1,49 @@
+table {
+    border-collapse: collapse;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    color: purple;
+}
+table caption {
+    font-size: 25px;
+    color: red;
+    
+} 
+th {
+    border: 1px solid black;
+    width: 100px;
+    background-color: lightcoral;
+    text-align: center;
+}
+td {
+    border: 1px solid black;
+}
+
+/* CLASES */
+
+.lmsgi {
+    background-color: cyan;
+}
+.bd {
+    background-color: orange;
+}
+.ped {
+    background-color: greenyellow;
+}
+.si {
+    background-color: aquamarine;
+}
+.tut {
+    background-color: pink;
+}
+.an {
+    background-color: gainsboro;
+}
+.diw {
+    background-color: yellow;
+}
+.ipoi {
+    background-color: burlywood;
+}
